@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" height=40% width=40%  src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hello+I'am+Zain+Ali;Welcome+to+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hello+I'am+Malik+Muhammad+Ali;I'am+MERN+Stack+Developer;I'am+App+Developer;I'am+BlockChain+Developer;!)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
@@ -11,20 +11,20 @@
 
 - 🌱 I’m currently learning...
 
-- 💬 Ask me about **Html, Css, Javascript**
+- 💬 Ask me about **Javascript, React.js, Node.js, Next.js, Python, Django, Flutter, Dart, Solidity**
 
-- 📫 How to reach me **chzainali6363@gmail.com**
+- 📫 How to reach me **muhammadali556656@gmail.com**
 
 ## 📊 Stats
 
-![trophy](https://github-readme-stats.vercel.app/api?username=ZainAli104&theme=blue-green)
-![trophy](https://github-readme-streak-stats.herokuapp.com?user=ZainAli104&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAli104&layout=compact&theme=cobalt&hide_border=true)
+![trophy](https://github-readme-stats.vercel.app/api?username=Malik-Muhammad-Ali&theme=blue-green)
+![trophy](https://github-readme-streak-stats.herokuapp.com?user=Malik-Muhammad-Ali&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Muhammad-Ali&layout=compact&theme=cobalt&hide_border=true)
 
 ## 👨‍💻 Connect with me 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__zainx__lyrix)
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/zainali117](https://www.linkedin.com/in/malikmuhammadali58/))
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/malikmuhammadali58/])
 
 ## 🖥 Web Development
 
